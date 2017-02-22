@@ -5,4 +5,5 @@ Note: The source of my study is http://interactivepython.org/runestone/static/py
 a) Basics of Object Oriented Programming
 b) The Big-O
 c) Stacks
-d) Queues
+d) Queues and Deques
+e) Linked Lists
